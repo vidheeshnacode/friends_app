@@ -1,0 +1,9 @@
+Rails - MVC Model View Controller
+
+M - Models are databases
+V - Views are webpages (frontend)
+C - Controller (brains or backend)
+
+Application partial links and New Pages
+
+- Application.html.erb will be the main template for whole website
